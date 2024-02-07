@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.image-container{
+    width: 50%;
+    margin-left: 25%;
+}
+img{
+    width: 100%;
+    border: 1px solid white;
+}
+.text-transform{
+    font-family: 'Protest Revolution', sans-serif;
+    text-align: center;
+    color: white;
+}
